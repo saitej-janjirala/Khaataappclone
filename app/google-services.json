@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130979460932",
+    "firebase_url": "https://digitaludhaarkhata-6f9fc.firebaseio.com",
+    "project_id": "digitaludhaarkhata-6f9fc",
+    "storage_bucket": "digitaludhaarkhata-6f9fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130979460932:android:34e86c8ec67c000073c911",
+        "android_client_info": {
+          "package_name": "com.saitejajanjirala.digitaludhaarkhata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130979460932-rftec3okh60coeodabl1ttqc3vulkcuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saitejajanjirala.digitaludhaarkhata",
+            "certificate_hash": "d1a34a25fe4021dcf3c2bf524717ec974f420594"
+          }
+        },
+        {
+          "client_id": "130979460932-bpcdv2ikh39flqjvk2ogvaehcvq4oaj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFygUPa_HUEL5gfQfUQ0-H4_IBDPSaw5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130979460932-bpcdv2ikh39flqjvk2ogvaehcvq4oaj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

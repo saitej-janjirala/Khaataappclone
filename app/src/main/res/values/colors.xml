@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004e92</color>
+    <color name="colorPrimaryDark">#1A237E</color>
+    <color name="colorAccent">#7C4DFF</color>
+    <color name="youwillget">#d50000</color>
+    <color name="youwillgive">#00C853</color>
+</resources>
